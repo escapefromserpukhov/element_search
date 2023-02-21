@@ -3,7 +3,7 @@
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
 1. [Всплывающие окна](https://github.com/escapefromserpukhov/element_search/tree/main/bhj-homeworks2-master/bhj-homeworks2-master/menu)
-2. [Навигационное меню] (https://github.com/escapefromserpukhov/element_search/tree/main/bhj-homeworks2-master/bhj-homeworks2-master/menu)
+2. [Навигационное меню](https://github.com/escapefromserpukhov/element_search/tree/main/bhj-homeworks2-master/bhj-homeworks2-master/menu)
 3. [Слайдер изображений](https://github.com/escapefromserpukhov/element_search/tree/main/bhj-homeworks2-master/bhj-homeworks2-master/slider)
 
 Все задачи обязательны к выполнению. Присылать на проверку можно только сразу все три задачи.
